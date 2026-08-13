@@ -1,3 +1,5 @@
+노션 링크 : https://app.notion.com/p/Midnight-Driver-3088942a9aa6802498dfeabe41175b0c?source=copy_link
+
 ### 📖 게임 개요
 
 <p align="center">
