@@ -1,6 +1,19 @@
-[![Notion](https://img.shields.io/badge/노션_포트폴리오_바로가기-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Midnight-Driver-3088942a9aa6802498dfeabe41175b0c?source=copy_link)
+<div align="center">
+  
+  # 🌃 Midnight Driver
+  
+  [![Notion](https://img.shields.io/badge/노션_상세_포트폴리오_보러가기-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Midnight-Driver-3088942a9aa6802498dfeabe41175b0c?source=copy_link)
+  
+  <br>
 
-### 프로젝트 개요
+  <!-- 깃허브에 업로드가 완료되면 생성되는 이미지 주소를 아래 src 부분에 넣어주세요! -->
+  <img width="800" alt="Midnight Driver 썸네일" src="https://github.com/user-attachments/assets/6c02a85e-7753-4143-8ef3-c423eca379ec" />
+
+</div>
+
+<br>
+
+### 📌 프로젝트 개요
 
 * **성격 :** 상명대학교 게임 잼 프로젝트
 * **핵심 목표 :** [잼(JAM)], [밤(Night)] 키워드를 바탕으로, 졸음을 쫓으며 야간 운전을 하는 독특한 컨셉의 리듬 게임 개발
