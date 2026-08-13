@@ -2,7 +2,7 @@
   
   # 🌃 Midnight Driver
   
-  [![Notion](https://img.shields.io/badge/노션_상세_포트폴리오_보러가기-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Midnight-Driver-3088942a9aa6802498dfeabe41175b0c?source=copy_link)
+  [![Notion](https://img.shields.io/badge/노션_포트폴리오-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Midnight-Driver-3088942a9aa6802498dfeabe41175b0c?source=copy_link)
   
   <br>
 
